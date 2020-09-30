@@ -1,6 +1,11 @@
 # xn-reverser
 Enumerate possible ASCII text being spoofed by a particular IDN domain name
 
+#### Install
+```sh
+pip install xn-reverser
+```
+
 #### How it works
 The basic algorithm for how this library works is as follows:
 
